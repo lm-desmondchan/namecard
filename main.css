@@ -149,6 +149,14 @@ img.profile-pic {
     font-size: 20px;
 }
 
+.degree {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    color: #333333;
+    font-size: 10px;
+    font-style: italic;
+}
+
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
